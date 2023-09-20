@@ -1,0 +1,21 @@
+leftnav:
+- identifier: 05bf8aec-4be7-3311-e614-623a7f73735d
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 383a12d9-7753-a380-38ac-53b8b5ba4576
+  name: Readings
+  pageRef: /pages/readings
+  weight: 20
+- identifier: b8c58453-45a5-9ece-0a95-9eed09239096
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 30
+- identifier: ad37f56f-b681-b82d-538b-53c135119403
+  name: Video Lectures
+  pageRef: /video_galleries/video-lectures
+  weight: 40
+- identifier: 1908160a-10b3-4495-98f8-3ea7592a646f
+  name: Image Gallery
+  pageRef: /pages/image-gallery/
+  weight: 50
